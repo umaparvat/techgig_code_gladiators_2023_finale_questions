@@ -1,4 +1,4 @@
-# The russia and ukraine war. The officer is watching the border. The N tankers are moving toward his country. he has to take down the maximum number of tankers. He has B bombs and S strength. Each tanker has H capacity initially and after bombing on it, the capacity will become B.
+# The russia and ukraine war. The officer is watching the border. The N tankers are moving toward his country. he has to take down the maximum number of tankers. He has B bombs and S strength. Each tanker has Hi capacity initially and after bombing on it, the capacity will become Bi.
 
 s-> 7 <br/>
 B-> 2 <br/>
